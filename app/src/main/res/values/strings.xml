@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DeliveryDetails</string>
+    <string name="show_all_deliveries_on_map">Show all deliveries on Map</string>
+    <string name="person_image">Person Image</string>
+    <string name="loading_message">Loading data please wait.</string>
+    <string name="error_message">Please check internet connection and try again</string>
+</resources>
